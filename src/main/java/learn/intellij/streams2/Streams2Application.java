@@ -9,7 +9,7 @@ public class Streams2Application {
 
   public static void main(String[] args) {
       SpringApplication.run(Streams2Application.class, args);
-      System.out.println("herllo");
+      System.out.println("hello");
       var s = "hello".getBytes(StandardCharsets.UTF_8);
   }
 }
