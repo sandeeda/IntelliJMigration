@@ -16,7 +16,6 @@ public class Cars {
         "model='" + model + '\'' +
         '}';
   }
-
   @Override
   public boolean equals(Object o) {
     if (this == o) {
